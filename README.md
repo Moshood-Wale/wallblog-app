@@ -11,8 +11,9 @@ This is a Flask-based web application for a blogging platform.
 
 1. Clone the repository:
 
-   git clone <repository_url>
-   cd flask-blog-app  # Navigate to your project directory
+   git clone https://github.com/Moshood-Wale/wallblog-app.git
+   
+   cd flaskblog  
 
 2. Set up a virtual environment:
 
